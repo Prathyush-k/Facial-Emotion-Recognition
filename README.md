@@ -1,5 +1,5 @@
 # Facial-Emotion-Recognition
-##### Current Status: *Working*
+#### **Current Status: Done**
 
 Experimenting with various image recognition models to classify the emotions displayed.
 
